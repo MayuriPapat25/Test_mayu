@@ -1,1 +1,18 @@
 For practicing the git revert commands
+
+
+
+
+git init
+git push origin master
+git pull upstream master 
+git config --list
+git log
+git log --oneline
+git checkout --
+git checkout --.
+git revert commit-id 
+git revert -n commit-id
+git add.
+git status
+git commit -m"commit message"
